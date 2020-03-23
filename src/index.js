@@ -1,4 +1,5 @@
-
+ 
+ 
 exports.min = function min (array) {
   if (array == null || array == false || array == undefined || array.length == undefined) {
       return 0;
